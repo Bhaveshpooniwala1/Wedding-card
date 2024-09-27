@@ -1,0 +1,68 @@
+.fix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.mainn{
+    background-color: #929267;
+}
+.main_page{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    width: 750px;
+    height: 1050px;
+    background-image: url(../images/mainbackground.jpg);
+}
+.main_one{
+    width: 219px;
+    height: 65px;
+    padding-left: 530px;
+}
+.main_two{
+    width: 192px;
+    height: 45px;
+    padding-top: 47px;
+    padding-left: 290px;
+}
+.main_three{
+    font-size: 23px;
+    padding-top: 20px;
+    text-align: center;
+}
+.main_four{
+    font-size: 60px;
+    color: #26aadf;
+    text-align: center; 
+}
+.main_four h2{
+    margin: auto;
+}
+.main_five{
+    font-size: 25px;
+    text-align: center; 
+}
+.main_six{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.main_six img{
+    position: absolute;
+    margin-left: -280px;
+
+}
+.main_six h3{
+    position: relative;
+    color: #ffffff;
+    font-size: 22px;
+}
+.main_seven{
+    text-align: center;
+    font-size: 22px;
+}
+.main_eight{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 22px;
+}
